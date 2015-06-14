@@ -1,1476 +1,1151 @@
 0.0 machine working
-27.793102018612412 machine failure
-27.793102018612412 starting repair
-27.793102018612412 finishing repair
-27.793102018612412 machine working
-60.0 user check: working 100%
-62.3404251036233 machine failure
-62.3404251036233 starting repair
-62.3404251036233 finishing repair
-62.3404251036233 machine working
-96.81177764575195 machine failure
-96.81177764575195 starting repair
-96.81177764575195 finishing repair
-96.81177764575195 machine working
-120.0 user check: working 100%
-128.1534906814316 machine failure
-128.1534906814316 starting repair
-128.1534906814316 finishing repair
-128.1534906814316 machine working
-149.9075700592267 machine failure
-149.9075700592267 starting repair
-149.9075700592267 finishing repair
-149.9075700592267 machine working
-180.0 user check: working 100%
-181.97812486332268 machine failure
-181.97812486332268 starting repair
-181.97812486332268 finishing repair
-181.97812486332268 machine working
-205.67294946081682 machine failure
-205.67294946081682 starting repair
-205.67294946081682 finishing repair
-205.67294946081682 machine working
-235.40634355255753 machine failure
-235.40634355255753 starting repair
-235.40634355255753 finishing repair
-235.40634355255753 machine working
-240.0 user check: working 100%
-262.1189480392323 machine failure
-262.1189480392323 starting repair
-262.1189480392323 finishing repair
-262.1189480392323 machine working
-293.2885939628205 machine failure
-293.2885939628205 starting repair
-293.2885939628205 finishing repair
-293.2885939628205 machine working
-300.0 user check: working 100%
-328.8786478517002 machine failure
-328.8786478517002 starting repair
-328.8786478517002 finishing repair
-328.8786478517002 machine working
-355.6146639858152 machine failure
-355.6146639858152 starting repair
-355.6146639858152 finishing repair
-355.6146639858152 machine working
-360.0 user check: working 100%
-395.19925808484425 machine failure
-395.19925808484425 starting repair
-395.19925808484425 finishing repair
-395.19925808484425 machine working
-420.0 user check: working 100%
-432.4021351881688 machine failure
-432.4021351881688 starting repair
-432.4021351881688 finishing repair
-432.4021351881688 machine working
-470.93077898155497 machine failure
-470.93077898155497 starting repair
-470.93077898155497 finishing repair
-470.93077898155497 machine working
-480.0 user check: working 100%
-497.03224602188317 machine failure
-497.03224602188317 starting repair
-497.03224602188317 finishing repair
-497.03224602188317 machine working
-525.9728785305145 machine failure
-525.9728785305145 starting repair
-525.9728785305145 finishing repair
-525.9728785305145 machine working
-540.0 user check: working 100%
-554.5425771838788 machine failure
-554.5425771838788 starting repair
-554.5425771838788 finishing repair
-554.5425771838788 machine working
-590.155182995142 machine failure
-590.155182995142 starting repair
-590.155182995142 finishing repair
-590.155182995142 machine working
-600.0 user check: working 100%
-628.8188124003537 machine failure
-628.8188124003537 starting repair
-628.8188124003537 finishing repair
-628.8188124003537 machine working
-660.0 user check: working 100%
-670.2600469281679 machine failure
-670.2600469281679 starting repair
-670.2600469281679 finishing repair
-670.2600469281679 machine working
-703.0899498790534 machine failure
-703.0899498790534 starting repair
-703.0899498790534 finishing repair
-703.0899498790534 machine working
-720.0 user check: working 100%
-732.6357434002173 machine failure
-732.6357434002173 starting repair
-732.6357434002173 finishing repair
-732.6357434002173 machine working
-764.6155406154047 machine failure
-764.6155406154047 starting repair
-764.6155406154047 finishing repair
-764.6155406154047 machine working
-780.0 user check: working 100%
-791.7545017298766 machine failure
-791.7545017298766 starting repair
-791.7545017298766 finishing repair
-791.7545017298766 machine working
-818.2725646838518 machine failure
-818.2725646838518 starting repair
-818.2725646838518 finishing repair
-818.2725646838518 machine working
-840.0 user check: working 100%
-853.2345321450254 machine failure
-853.2345321450254 starting repair
-853.2345321450254 finishing repair
-853.2345321450254 machine working
-881.8175047601253 machine failure
-881.8175047601253 starting repair
-881.8175047601253 finishing repair
-881.8175047601253 machine working
-900.0 user check: working 100%
-914.1607820596855 machine failure
-914.1607820596855 starting repair
-914.1607820596855 finishing repair
-914.1607820596855 machine working
-942.4163388844611 machine failure
-942.4163388844611 starting repair
-942.4163388844611 finishing repair
-942.4163388844611 machine working
-960.0 user check: working 100%
-973.3583330251398 machine failure
-973.3583330251398 starting repair
-973.3583330251398 finishing repair
-973.3583330251398 machine working
-1006.7126693284363 machine failure
-1006.7126693284363 starting repair
-1006.7126693284363 finishing repair
-1006.7126693284363 machine working
-1020.0 user check: working 100%
-1044.036840538778 machine failure
-1044.036840538778 starting repair
-1044.036840538778 finishing repair
-1044.036840538778 machine working
-1071.9288266651677 machine failure
-1071.9288266651677 starting repair
-1071.9288266651677 finishing repair
-1071.9288266651677 machine working
-1080.0 user check: working 100%
-1099.0550631305018 machine failure
-1099.0550631305018 starting repair
-1099.0550631305018 finishing repair
-1099.0550631305018 machine working
-1129.9479514664915 machine failure
-1129.9479514664915 starting repair
-1129.9479514664915 finishing repair
-1129.9479514664915 machine working
-1140.0 user check: working 100%
-1163.0812278310693 machine failure
-1163.0812278310693 starting repair
-1163.0812278310693 finishing repair
-1163.0812278310693 machine working
-1192.075636552073 machine failure
-1192.075636552073 starting repair
-1192.075636552073 finishing repair
-1192.075636552073 machine working
-1200.0 user check: working 100%
-1222.597088036114 machine failure
-1222.597088036114 starting repair
-1222.597088036114 finishing repair
-1222.597088036114 machine working
-1250.913533562024 machine failure
-1250.913533562024 starting repair
-1250.913533562024 finishing repair
-1250.913533562024 machine working
-1260.0 user check: working 100%
-1279.924087908061 machine failure
-1279.924087908061 starting repair
-1279.924087908061 finishing repair
-1279.924087908061 machine working
-1312.5969631592834 machine failure
-1312.5969631592834 starting repair
-1312.5969631592834 finishing repair
-1312.5969631592834 machine working
-1320.0 user check: working 100%
-1341.027182072083 machine failure
-1341.027182072083 starting repair
-1341.027182072083 finishing repair
-1341.027182072083 machine working
-1373.7900252519553 machine failure
-1373.7900252519553 starting repair
-1373.7900252519553 finishing repair
-1373.7900252519553 machine working
-1380.0 user check: working 100%
-1412.0852331371016 machine failure
-1412.0852331371016 starting repair
-1412.0852331371016 finishing repair
-1412.0852331371016 machine working
-1434.0857247595563 machine failure
-1434.0857247595563 starting repair
-1434.0857247595563 finishing repair
-1434.0857247595563 machine working
-1440.0 user check: working 100%
-1469.8165090841962 machine failure
-1469.8165090841962 starting repair
-1469.8165090841962 finishing repair
-1469.8165090841962 machine working
-1499.5181692389829 machine failure
-1499.5181692389829 starting repair
-1499.5181692389829 finishing repair
-1499.5181692389829 machine working
-1500.0 user check: working 100%
-1532.5199741671054 machine failure
-1532.5199741671054 starting repair
-1532.5199741671054 finishing repair
-1532.5199741671054 machine working
-1559.2005227479838 machine failure
-1559.2005227479838 starting repair
-1559.2005227479838 finishing repair
-1559.2005227479838 machine working
-1560.0 user check: working 100%
-1588.2212858689884 machine failure
-1588.2212858689884 starting repair
-1588.2212858689884 finishing repair
-1588.2212858689884 machine working
-1620.0 user check: working 100%
-1621.6575438065809 machine failure
-1621.6575438065809 starting repair
-1621.6575438065809 finishing repair
-1621.6575438065809 machine working
-1652.1816165689816 machine failure
-1652.1816165689816 starting repair
-1652.1816165689816 finishing repair
-1652.1816165689816 machine working
-1680.0 user check: working 100%
-1692.50369748253 machine failure
-1692.50369748253 starting repair
-1692.50369748253 finishing repair
-1692.50369748253 machine working
-1715.6009338242998 machine failure
-1715.6009338242998 starting repair
-1715.6009338242998 finishing repair
-1715.6009338242998 machine working
-1740.0 user check: working 100%
-1750.5708585387813 machine failure
-1750.5708585387813 starting repair
-1750.5708585387813 finishing repair
-1750.5708585387813 machine working
-1774.8839779513053 machine failure
-1774.8839779513053 starting repair
-1774.8839779513053 finishing repair
-1774.8839779513053 machine working
-1800.0 user check: working 100%
-1801.048393908761 machine failure
-1801.048393908761 starting repair
-1801.048393908761 finishing repair
-1801.048393908761 machine working
-1826.7679742765217 machine failure
-1826.7679742765217 starting repair
-1826.7679742765217 finishing repair
-1826.7679742765217 machine working
-1858.044586001376 machine failure
-1858.044586001376 starting repair
-1858.044586001376 finishing repair
-1858.044586001376 machine working
-1860.0 user check: working 100%
-1891.503053205029 machine failure
-1891.503053205029 starting repair
-1891.503053205029 finishing repair
-1891.503053205029 machine working
-1916.7480582018893 machine failure
-1916.7480582018893 starting repair
-1916.7480582018893 finishing repair
-1916.7480582018893 machine working
-1920.0 user check: working 100%
-1956.2061703893746 machine failure
-1956.2061703893746 starting repair
-1956.2061703893746 finishing repair
-1956.2061703893746 machine working
-1980.0 user check: working 100%
-1989.1127371871212 machine failure
-1989.1127371871212 starting repair
-1989.1127371871212 finishing repair
-1989.1127371871212 machine working
-2024.5482108858148 machine failure
-2024.5482108858148 starting repair
-2024.5482108858148 finishing repair
-2024.5482108858148 machine working
-2040.0 user check: working 100%
-2051.7363578542645 machine failure
-2051.7363578542645 starting repair
-2051.7363578542645 finishing repair
-2051.7363578542645 machine working
-2079.0501409809926 machine failure
-2079.0501409809926 starting repair
-2079.0501409809926 finishing repair
-2079.0501409809926 machine working
-2100.0 user check: working 100%
-2106.7180254064465 machine failure
-2106.7180254064465 starting repair
-2106.7180254064465 finishing repair
-2106.7180254064465 machine working
-2128.923975678956 machine failure
-2128.923975678956 starting repair
-2128.923975678956 finishing repair
-2128.923975678956 machine working
-2157.4680587299385 machine failure
-2157.4680587299385 starting repair
-2157.4680587299385 finishing repair
-2157.4680587299385 machine working
-2160.0 user check: working 100%
-2176.8760049979887 machine failure
-2176.8760049979887 starting repair
-2176.8760049979887 finishing repair
-2176.8760049979887 machine working
-2208.854610781297 machine failure
-2208.854610781297 starting repair
-2208.854610781297 finishing repair
-2208.854610781297 machine working
-2220.0 user check: working 100%
-2236.2151038067195 machine failure
-2236.2151038067195 starting repair
-2236.2151038067195 finishing repair
-2236.2151038067195 machine working
-2264.305383525477 machine failure
-2264.305383525477 starting repair
-2264.305383525477 finishing repair
-2264.305383525477 machine working
-2280.0 user check: working 100%
-2294.4653687515406 machine failure
-2294.4653687515406 starting repair
-2294.4653687515406 finishing repair
-2294.4653687515406 machine working
-2322.6240895427104 machine failure
-2322.6240895427104 starting repair
-2322.6240895427104 finishing repair
-2322.6240895427104 machine working
-2340.0 user check: working 100%
-2349.171865417612 machine failure
-2349.171865417612 starting repair
-2349.171865417612 finishing repair
-2349.171865417612 machine working
-2379.5438198335123 machine failure
-2379.5438198335123 starting repair
-2379.5438198335123 finishing repair
-2379.5438198335123 machine working
-2400.0 user check: working 100%
-2414.4772676987373 machine failure
-2414.4772676987373 starting repair
-2414.4772676987373 finishing repair
-2414.4772676987373 machine working
-2453.0376390081024 machine failure
-2453.0376390081024 starting repair
-2453.0376390081024 finishing repair
-2453.0376390081024 machine working
-2460.0 user check: working 100%
-2486.2455888749196 machine failure
-2486.2455888749196 starting repair
-2486.2455888749196 finishing repair
-2486.2455888749196 machine working
-2520.0 user check: working 100%
-2524.547494090589 machine failure
-2524.547494090589 starting repair
-2524.547494090589 finishing repair
-2524.547494090589 machine working
-2551.5425583775727 machine failure
-2551.5425583775727 starting repair
-2551.5425583775727 finishing repair
-2551.5425583775727 machine working
-2574.217784675306 machine failure
-2574.217784675306 starting repair
-2574.217784675306 finishing repair
-2574.217784675306 machine working
-2580.0 user check: working 100%
-2608.7780034557563 machine failure
-2608.7780034557563 starting repair
-2608.7780034557563 finishing repair
-2608.7780034557563 machine working
-2640.0 user check: working 100%
-2641.9310942276925 machine failure
-2641.9310942276925 starting repair
-2641.9310942276925 finishing repair
-2641.9310942276925 machine working
-2672.657834881972 machine failure
-2672.657834881972 starting repair
-2672.657834881972 finishing repair
-2672.657834881972 machine working
-2700.0 user check: working 100%
-2702.937145594506 machine failure
-2702.937145594506 starting repair
-2702.937145594506 finishing repair
-2702.937145594506 machine working
-2739.80431486569 machine failure
-2739.80431486569 starting repair
-2739.80431486569 finishing repair
-2739.80431486569 machine working
-2760.0 user check: working 100%
-2771.345567150049 machine failure
-2771.345567150049 starting repair
-2771.345567150049 finishing repair
-2771.345567150049 machine working
-2804.325787232601 machine failure
-2804.325787232601 starting repair
-2804.325787232601 finishing repair
-2804.325787232601 machine working
-2820.0 user check: working 100%
-2826.869832317062 machine failure
-2826.869832317062 starting repair
-2826.869832317062 finishing repair
-2826.869832317062 machine working
-2853.5523684676964 machine failure
-2853.5523684676964 starting repair
-2853.5523684676964 finishing repair
-2853.5523684676964 machine working
-2880.0 user check: working 100%
-2880.078139121095 machine failure
-2880.078139121095 starting repair
-2880.078139121095 finishing repair
-2880.078139121095 machine working
-2913.9319275775915 machine failure
-2913.9319275775915 starting repair
-2913.9319275775915 finishing repair
-2913.9319275775915 machine working
-2935.9675652239775 machine failure
-2935.9675652239775 starting repair
-2935.9675652239775 finishing repair
-2935.9675652239775 machine working
-2940.0 user check: working 100%
-2960.0545170906303 machine failure
-2960.0545170906303 starting repair
-2960.0545170906303 finishing repair
-2960.0545170906303 machine working
-2988.5159537495256 machine failure
-2988.5159537495256 starting repair
-2988.5159537495256 finishing repair
-2988.5159537495256 machine working
-3000.0 user check: working 100%
-3015.4829671714238 machine failure
-3015.4829671714238 starting repair
-3015.4829671714238 finishing repair
-3015.4829671714238 machine working
-3042.7789678995778 machine failure
-3042.7789678995778 starting repair
-3042.7789678995778 finishing repair
-3042.7789678995778 machine working
-3060.0 user check: working 100%
-3071.2861312241757 machine failure
-3071.2861312241757 starting repair
-3071.2861312241757 finishing repair
-3071.2861312241757 machine working
-3099.994127701681 machine failure
-3099.994127701681 starting repair
-3099.994127701681 finishing repair
-3099.994127701681 machine working
-3120.0 user check: working 100%
-3129.482812176049 machine failure
-3129.482812176049 starting repair
-3129.482812176049 finishing repair
-3129.482812176049 machine working
-3161.672748666588 machine failure
-3161.672748666588 starting repair
-3161.672748666588 finishing repair
-3161.672748666588 machine working
-3180.0 user check: working 100%
-3196.0300212319744 machine failure
-3196.0300212319744 starting repair
-3196.0300212319744 finishing repair
-3196.0300212319744 machine working
-3226.575533554149 machine failure
-3226.575533554149 starting repair
-3226.575533554149 finishing repair
-3226.575533554149 machine working
-3240.0 user check: working 100%
-3256.011391298619 machine failure
-3256.011391298619 starting repair
-3256.011391298619 finishing repair
-3256.011391298619 machine working
-3281.933296956436 machine failure
-3281.933296956436 starting repair
-3281.933296956436 finishing repair
-3281.933296956436 machine working
-3300.0 user check: working 100%
-3314.5163414920635 machine failure
-3314.5163414920635 starting repair
-3314.5163414920635 finishing repair
-3314.5163414920635 machine working
-3342.3130953633877 machine failure
-3342.3130953633877 starting repair
-3342.3130953633877 finishing repair
-3342.3130953633877 machine working
-3360.0 user check: working 100%
-3371.2820787727487 machine failure
-3371.2820787727487 starting repair
-3371.2820787727487 finishing repair
-3371.2820787727487 machine working
-3404.084929473547 machine failure
-3404.084929473547 starting repair
-3404.084929473547 finishing repair
-3404.084929473547 machine working
-3420.0 user check: working 100%
-3433.512628642051 machine failure
-3433.512628642051 starting repair
-3433.512628642051 finishing repair
-3433.512628642051 machine working
-3466.8781965664393 machine failure
-3466.8781965664393 starting repair
-3466.8781965664393 finishing repair
-3466.8781965664393 machine working
-3480.0 user check: working 100%
-3498.9222677654097 machine failure
-3498.9222677654097 starting repair
-3498.9222677654097 finishing repair
-3498.9222677654097 machine working
-3526.5453984426317 machine failure
-3526.5453984426317 starting repair
-3526.5453984426317 finishing repair
-3526.5453984426317 machine working
-3540.0 user check: working 100%
-3568.3957748167586 machine failure
-3568.3957748167586 starting repair
-3568.3957748167586 finishing repair
-3568.3957748167586 machine working
-3595.5858365307076 machine failure
-3595.5858365307076 starting repair
-3595.5858365307076 finishing repair
-3595.5858365307076 machine working
-3600.0 user check: working 100%
-3618.6715927892246 machine failure
-3618.6715927892246 starting repair
-3618.6715927892246 finishing repair
-3618.6715927892246 machine working
-3649.031464563898 machine failure
-3649.031464563898 starting repair
-3649.031464563898 finishing repair
-3649.031464563898 machine working
-3660.0 user check: working 100%
-3674.5839939440452 machine failure
-3674.5839939440452 starting repair
-3674.5839939440452 finishing repair
-3674.5839939440452 machine working
-3711.1040856191053 machine failure
-3711.1040856191053 starting repair
-3711.1040856191053 finishing repair
-3711.1040856191053 machine working
-3720.0 user check: working 100%
-3746.088273657632 machine failure
-3746.088273657632 starting repair
-3746.088273657632 finishing repair
-3746.088273657632 machine working
-3778.0142290829494 machine failure
-3778.0142290829494 starting repair
-3778.0142290829494 finishing repair
-3778.0142290829494 machine working
-3780.0 user check: working 100%
-3805.4993819849833 machine failure
-3805.4993819849833 starting repair
-3805.4993819849833 finishing repair
-3805.4993819849833 machine working
-3836.224568461483 machine failure
-3836.224568461483 starting repair
-3836.224568461483 finishing repair
-3836.224568461483 machine working
-3840.0 user check: working 100%
-3865.097994886527 machine failure
-3865.097994886527 starting repair
-3865.097994886527 finishing repair
-3865.097994886527 machine working
-3895.9921231407716 machine failure
-3895.9921231407716 starting repair
-3895.9921231407716 finishing repair
-3895.9921231407716 machine working
-3900.0 user check: working 100%
-3930.303469775214 machine failure
-3930.303469775214 starting repair
-3930.303469775214 finishing repair
-3930.303469775214 machine working
-3960.0 user check: working 100%
-3975.082931482927 machine failure
-3975.082931482927 starting repair
-3975.082931482927 finishing repair
-3975.082931482927 machine working
-3999.6220711755873 machine failure
-3999.6220711755873 starting repair
-3999.6220711755873 finishing repair
-3999.6220711755873 machine working
-4020.0 user check: working 100%
-4034.3722516108974 machine failure
-4034.3722516108974 starting repair
-4034.3722516108974 finishing repair
-4034.3722516108974 machine working
-4060.9955147601445 machine failure
-4060.9955147601445 starting repair
-4060.9955147601445 finishing repair
-4060.9955147601445 machine working
-4080.0 user check: working 100%
-4085.0038293390153 machine failure
-4085.0038293390153 starting repair
-4085.0038293390153 finishing repair
-4085.0038293390153 machine working
-4122.011409160415 machine failure
-4122.011409160415 starting repair
-4122.011409160415 finishing repair
-4122.011409160415 machine working
-4140.0 user check: working 100%
-4144.165125617978 machine failure
-4144.165125617978 starting repair
-4144.165125617978 finishing repair
-4144.165125617978 machine working
-4174.551717575523 machine failure
-4174.551717575523 starting repair
-4174.551717575523 finishing repair
-4174.551717575523 machine working
-4197.086520770469 machine failure
-4197.086520770469 starting repair
-4197.086520770469 finishing repair
-4197.086520770469 machine working
-4200.0 user check: working 100%
-4218.303089571605 machine failure
-4218.303089571605 starting repair
-4218.303089571605 finishing repair
-4218.303089571605 machine working
-4250.419686610067 machine failure
-4250.419686610067 starting repair
-4250.419686610067 finishing repair
-4250.419686610067 machine working
-4260.0 user check: working 100%
-4274.4243197586065 machine failure
-4274.4243197586065 starting repair
-4274.4243197586065 finishing repair
-4274.4243197586065 machine working
-4298.782048977715 machine failure
-4298.782048977715 starting repair
-4298.782048977715 finishing repair
-4298.782048977715 machine working
-4320.0 user check: working 100%
-4334.938784627232 machine failure
-4334.938784627232 starting repair
-4334.938784627232 finishing repair
-4334.938784627232 machine working
-4372.906377985899 machine failure
-4372.906377985899 starting repair
-4372.906377985899 finishing repair
-4372.906377985899 machine working
-4380.0 user check: working 100%
-4404.553467509646 machine failure
-4404.553467509646 starting repair
-4404.553467509646 finishing repair
-4404.553467509646 machine working
-4432.744649204516 machine failure
-4432.744649204516 starting repair
-4432.744649204516 finishing repair
-4432.744649204516 machine working
-4440.0 user check: working 100%
-4461.9801800845225 machine failure
-4461.9801800845225 starting repair
-4461.9801800845225 finishing repair
-4461.9801800845225 machine working
-4493.470852955397 machine failure
-4493.470852955397 starting repair
-4493.470852955397 finishing repair
-4493.470852955397 machine working
-4500.0 user check: working 100%
-4528.316518757505 machine failure
-4528.316518757505 starting repair
-4528.316518757505 finishing repair
-4528.316518757505 machine working
-4559.750496449563 machine failure
-4559.750496449563 starting repair
-4559.750496449563 finishing repair
-4559.750496449563 machine working
-4560.0 user check: working 100%
-4589.080224312139 machine failure
-4589.080224312139 starting repair
-4589.080224312139 finishing repair
-4589.080224312139 machine working
-4617.564434685402 machine failure
-4617.564434685402 starting repair
-4617.564434685402 finishing repair
-4617.564434685402 machine working
-4620.0 user check: working 100%
-4647.638851549388 machine failure
-4647.638851549388 starting repair
-4647.638851549388 finishing repair
-4647.638851549388 machine working
-4665.941353141527 machine failure
-4665.941353141527 starting repair
-4665.941353141527 finishing repair
-4665.941353141527 machine working
-4680.0 user check: working 100%
-4697.991712605678 machine failure
-4697.991712605678 starting repair
-4697.991712605678 finishing repair
-4697.991712605678 machine working
-4731.031907876666 machine failure
-4731.031907876666 starting repair
-4731.031907876666 finishing repair
-4731.031907876666 machine working
-4740.0 user check: working 100%
-4769.7510612329925 machine failure
-4769.7510612329925 starting repair
-4769.7510612329925 finishing repair
-4769.7510612329925 machine working
-4796.977741543313 machine failure
-4796.977741543313 starting repair
-4796.977741543313 finishing repair
-4796.977741543313 machine working
-4800.0 user check: working 100%
-4833.731296998358 machine failure
-4833.731296998358 starting repair
-4833.731296998358 finishing repair
-4833.731296998358 machine working
-4854.977132581692 machine failure
-4854.977132581692 starting repair
-4854.977132581692 finishing repair
-4854.977132581692 machine working
-4860.0 user check: working 100%
-4886.990496651249 machine failure
-4886.990496651249 starting repair
-4886.990496651249 finishing repair
-4886.990496651249 machine working
-4913.7432119091845 machine failure
-4913.7432119091845 starting repair
-4913.7432119091845 finishing repair
-4913.7432119091845 machine working
-4920.0 user check: working 100%
-4946.195732111278 machine failure
-4946.195732111278 starting repair
-4946.195732111278 finishing repair
-4946.195732111278 machine working
-4974.505899306158 machine failure
-4974.505899306158 starting repair
-4974.505899306158 finishing repair
-4974.505899306158 machine working
-4980.0 user check: working 100%
-5003.895056233444 machine failure
-5003.895056233444 starting repair
-5003.895056233444 finishing repair
-5003.895056233444 machine working
-5035.063826732662 machine failure
-5035.063826732662 starting repair
-5035.063826732662 finishing repair
-5035.063826732662 machine working
-5040.0 user check: working 100%
-5062.452563060095 machine failure
-5062.452563060095 starting repair
-5062.452563060095 finishing repair
-5062.452563060095 machine working
-5098.518962219189 machine failure
-5098.518962219189 starting repair
-5098.518962219189 finishing repair
-5098.518962219189 machine working
-5100.0 user check: working 100%
-5132.540543727724 machine failure
-5132.540543727724 starting repair
-5132.540543727724 finishing repair
-5132.540543727724 machine working
-5158.600467595875 machine failure
-5158.600467595875 starting repair
-5158.600467595875 finishing repair
-5158.600467595875 machine working
-5160.0 user check: working 100%
-5189.554030406886 machine failure
-5189.554030406886 starting repair
-5189.554030406886 finishing repair
-5189.554030406886 machine working
-5218.287438402524 machine failure
-5218.287438402524 starting repair
-5218.287438402524 finishing repair
-5218.287438402524 machine working
-5220.0 user check: working 100%
-5250.780749862766 machine failure
-5250.780749862766 starting repair
-5250.780749862766 finishing repair
-5250.780749862766 machine working
-5277.8544412632755 machine failure
-5277.8544412632755 starting repair
-5277.8544412632755 finishing repair
-5277.8544412632755 machine working
-5280.0 user check: working 100%
-5304.827492617122 machine failure
-5304.827492617122 starting repair
-5304.827492617122 finishing repair
-5304.827492617122 machine working
-5336.345904283129 machine failure
-5336.345904283129 starting repair
-5336.345904283129 finishing repair
-5336.345904283129 machine working
-5340.0 user check: working 100%
-5361.371968187081 machine failure
-5361.371968187081 starting repair
-5361.371968187081 finishing repair
-5361.371968187081 machine working
-5389.3250821476 machine failure
-5389.3250821476 starting repair
-5389.3250821476 finishing repair
-5389.3250821476 machine working
-5400.0 user check: working 100%
-5419.54098694516 machine failure
-5419.54098694516 starting repair
-5419.54098694516 finishing repair
-5419.54098694516 machine working
-5448.139088312614 machine failure
-5448.139088312614 starting repair
-5448.139088312614 finishing repair
-5448.139088312614 machine working
-5460.0 user check: working 100%
-5474.7678226127755 machine failure
-5474.7678226127755 starting repair
-5474.7678226127755 finishing repair
-5474.7678226127755 machine working
-5507.363154275618 machine failure
-5507.363154275618 starting repair
-5507.363154275618 finishing repair
-5507.363154275618 machine working
-5520.0 user check: working 100%
-5529.662336314135 machine failure
-5529.662336314135 starting repair
-5529.662336314135 finishing repair
-5529.662336314135 machine working
-5561.924489961275 machine failure
-5561.924489961275 starting repair
-5561.924489961275 finishing repair
-5561.924489961275 machine working
-5580.0 user check: working 100%
-5599.044462060515 machine failure
-5599.044462060515 starting repair
-5599.044462060515 finishing repair
-5599.044462060515 machine working
-5640.0 user check: working 100%
-5641.4123703870355 machine failure
-5641.4123703870355 starting repair
-5641.4123703870355 finishing repair
-5641.4123703870355 machine working
-5666.729953120182 machine failure
-5666.729953120182 starting repair
-5666.729953120182 finishing repair
-5666.729953120182 machine working
-5700.0 user check: working 100%
-5703.716565780216 machine failure
-5703.716565780216 starting repair
-5703.716565780216 finishing repair
-5703.716565780216 machine working
-5728.017651194417 machine failure
-5728.017651194417 starting repair
-5728.017651194417 finishing repair
-5728.017651194417 machine working
-5758.649906189841 machine failure
-5758.649906189841 starting repair
-5758.649906189841 finishing repair
-5758.649906189841 machine working
-5760.0 user check: working 100%
-5788.535098560561 machine failure
-5788.535098560561 starting repair
-5788.535098560561 finishing repair
-5788.535098560561 machine working
-5814.854628547904 machine failure
-5814.854628547904 starting repair
-5814.854628547904 finishing repair
-5814.854628547904 machine working
-5820.0 user check: working 100%
-5845.611959772024 machine failure
-5845.611959772024 starting repair
-5845.611959772024 finishing repair
-5845.611959772024 machine working
-5876.701111279497 machine failure
-5876.701111279497 starting repair
-5876.701111279497 finishing repair
-5876.701111279497 machine working
-5880.0 user check: working 100%
-5903.268846074848 machine failure
-5903.268846074848 starting repair
-5903.268846074848 finishing repair
-5903.268846074848 machine working
-5936.136072967987 machine failure
-5936.136072967987 starting repair
-5936.136072967987 finishing repair
-5936.136072967987 machine working
-5940.0 user check: working 100%
-5965.9124929352565 machine failure
-5965.9124929352565 starting repair
-5965.9124929352565 finishing repair
-5965.9124929352565 machine working
-5992.287195280402 machine failure
-5992.287195280402 starting repair
-5992.287195280402 finishing repair
-5992.287195280402 machine working
-6000.0 user check: working 100%
-6013.862404540033 machine failure
-6013.862404540033 starting repair
-6013.862404540033 finishing repair
-6013.862404540033 machine working
-6042.285877042357 machine failure
-6042.285877042357 starting repair
-6042.285877042357 finishing repair
-6042.285877042357 machine working
-6060.0 user check: working 100%
-6072.407021739655 machine failure
-6072.407021739655 starting repair
-6072.407021739655 finishing repair
-6072.407021739655 machine working
-6109.648199814254 machine failure
-6109.648199814254 starting repair
-6109.648199814254 finishing repair
-6109.648199814254 machine working
-6120.0 user check: working 100%
-6138.571912963078 machine failure
-6138.571912963078 starting repair
-6138.571912963078 finishing repair
-6138.571912963078 machine working
-6165.213943467156 machine failure
-6165.213943467156 starting repair
-6165.213943467156 finishing repair
-6165.213943467156 machine working
-6180.0 user check: working 100%
-6199.892189985467 machine failure
-6199.892189985467 starting repair
-6199.892189985467 finishing repair
-6199.892189985467 machine working
-6226.606736495061 machine failure
-6226.606736495061 starting repair
-6226.606736495061 finishing repair
-6226.606736495061 machine working
-6240.0 user check: working 100%
-6247.298073590923 machine failure
-6247.298073590923 starting repair
-6247.298073590923 finishing repair
-6247.298073590923 machine working
-6277.416826746466 machine failure
-6277.416826746466 starting repair
-6277.416826746466 finishing repair
-6277.416826746466 machine working
-6300.0 user check: working 100%
-6315.920141470672 machine failure
-6315.920141470672 starting repair
-6315.920141470672 finishing repair
-6315.920141470672 machine working
-6343.274328442354 machine failure
-6343.274328442354 starting repair
-6343.274328442354 finishing repair
-6343.274328442354 machine working
-6360.0 user check: working 100%
-6373.3122924333875 machine failure
-6373.3122924333875 starting repair
-6373.3122924333875 finishing repair
-6373.3122924333875 machine working
-6403.239355502547 machine failure
-6403.239355502547 starting repair
-6403.239355502547 finishing repair
-6403.239355502547 machine working
-6420.0 user check: working 100%
-6431.331201743588 machine failure
-6431.331201743588 starting repair
-6431.331201743588 finishing repair
-6431.331201743588 machine working
-6463.984943349576 machine failure
-6463.984943349576 starting repair
-6463.984943349576 finishing repair
-6463.984943349576 machine working
-6480.0 user check: working 100%
-6491.902355493553 machine failure
-6491.902355493553 starting repair
-6491.902355493553 finishing repair
-6491.902355493553 machine working
-6525.927052161876 machine failure
-6525.927052161876 starting repair
-6525.927052161876 finishing repair
-6525.927052161876 machine working
-6540.0 user check: working 100%
-6563.694383546238 machine failure
-6563.694383546238 starting repair
-6563.694383546238 finishing repair
-6563.694383546238 machine working
-6600.0 user check: working 100%
-6606.69579672002 machine failure
-6606.69579672002 starting repair
-6606.69579672002 finishing repair
-6606.69579672002 machine working
-6629.594386553017 machine failure
-6629.594386553017 starting repair
-6629.594386553017 finishing repair
-6629.594386553017 machine working
-6660.0 user check: working 100%
-6660.041965786956 machine failure
-6660.041965786956 starting repair
-6660.041965786956 finishing repair
-6660.041965786956 machine working
-6696.751945476222 machine failure
-6696.751945476222 starting repair
-6696.751945476222 finishing repair
-6696.751945476222 machine working
-6720.0 user check: working 100%
-6729.160344582161 machine failure
-6729.160344582161 starting repair
-6729.160344582161 finishing repair
-6729.160344582161 machine working
-6747.0590584876 machine failure
-6747.0590584876 starting repair
-6747.0590584876 finishing repair
-6747.0590584876 machine working
-6767.434164193195 machine failure
-6767.434164193195 starting repair
-6767.434164193195 finishing repair
-6767.434164193195 machine working
-6780.0 user check: working 100%
-6793.56054047384 machine failure
-6793.56054047384 starting repair
-6793.56054047384 finishing repair
-6793.56054047384 machine working
-6823.608623220728 machine failure
-6823.608623220728 starting repair
-6823.608623220728 finishing repair
-6823.608623220728 machine working
-6840.0 user check: working 100%
-6848.790789122801 machine failure
-6848.790789122801 starting repair
-6848.790789122801 finishing repair
-6848.790789122801 machine working
-6882.538219682041 machine failure
-6882.538219682041 starting repair
-6882.538219682041 finishing repair
-6882.538219682041 machine working
-6900.0 user check: working 100%
-6922.147792581313 machine failure
-6922.147792581313 starting repair
-6922.147792581313 finishing repair
-6922.147792581313 machine working
-6947.424512220438 machine failure
-6947.424512220438 starting repair
-6947.424512220438 finishing repair
-6947.424512220438 machine working
-6960.0 user check: working 100%
-6980.936127458336 machine failure
-6980.936127458336 starting repair
-6980.936127458336 finishing repair
-6980.936127458336 machine working
-7010.785585546087 machine failure
-7010.785585546087 starting repair
-7010.785585546087 finishing repair
-7010.785585546087 machine working
-7020.0 user check: working 100%
-7041.531799520807 machine failure
-7041.531799520807 starting repair
-7041.531799520807 finishing repair
-7041.531799520807 machine working
-7073.988580259252 machine failure
-7073.988580259252 starting repair
-7073.988580259252 finishing repair
-7073.988580259252 machine working
-7080.0 user check: working 100%
-7101.831676969381 machine failure
-7101.831676969381 starting repair
-7101.831676969381 finishing repair
-7101.831676969381 machine working
-7133.342314078985 machine failure
-7133.342314078985 starting repair
-7133.342314078985 finishing repair
-7133.342314078985 machine working
-7140.0 user check: working 100%
-7166.837832638579 machine failure
-7166.837832638579 starting repair
-7166.837832638579 finishing repair
-7166.837832638579 machine working
-7199.936211564108 machine failure
-7199.936211564108 starting repair
-7199.936211564108 finishing repair
-7199.936211564108 machine working
-7200.0 user check: working 100%
-7228.486013434859 machine failure
-7228.486013434859 starting repair
-7228.486013434859 finishing repair
-7228.486013434859 machine working
-7257.0157638997225 machine failure
-7257.0157638997225 starting repair
-7257.0157638997225 finishing repair
-7257.0157638997225 machine working
-7260.0 user check: working 100%
-7289.7781301015075 machine failure
-7289.7781301015075 starting repair
-7289.7781301015075 finishing repair
-7289.7781301015075 machine working
-7320.0 user check: working 100%
-7322.216302013113 machine failure
-7322.216302013113 starting repair
-7322.216302013113 finishing repair
-7322.216302013113 machine working
-7350.6541759460915 machine failure
-7350.6541759460915 starting repair
-7350.6541759460915 finishing repair
-7350.6541759460915 machine working
-7380.0 user check: working 100%
-7382.097159680638 machine failure
-7382.097159680638 starting repair
-7382.097159680638 finishing repair
-7382.097159680638 machine working
-7411.619801604412 machine failure
-7411.619801604412 starting repair
-7411.619801604412 finishing repair
-7411.619801604412 machine working
-7440.0 user check: working 100%
-7443.281727617407 machine failure
-7443.281727617407 starting repair
-7443.281727617407 finishing repair
-7443.281727617407 machine working
-7465.891084861198 machine failure
-7465.891084861198 starting repair
-7465.891084861198 finishing repair
-7465.891084861198 machine working
-7499.477852365171 machine failure
-7499.477852365171 starting repair
-7499.477852365171 finishing repair
-7499.477852365171 machine working
-7500.0 user check: working 100%
-7527.778544695951 machine failure
-7527.778544695951 starting repair
-7527.778544695951 finishing repair
-7527.778544695951 machine working
-7552.310672564697 machine failure
-7552.310672564697 starting repair
-7552.310672564697 finishing repair
-7552.310672564697 machine working
-7560.0 user check: working 100%
-7585.990660759795 machine failure
-7585.990660759795 starting repair
-7585.990660759795 finishing repair
-7585.990660759795 machine working
-7620.0 user check: working 100%
-7623.038464978953 machine failure
-7623.038464978953 starting repair
-7623.038464978953 finishing repair
-7623.038464978953 machine working
-7664.355646325528 machine failure
-7664.355646325528 starting repair
-7664.355646325528 finishing repair
-7664.355646325528 machine working
-7680.0 user check: working 100%
-7704.470870691772 machine failure
-7704.470870691772 starting repair
-7704.470870691772 finishing repair
-7704.470870691772 machine working
-7740.0 user check: working 100%
-7741.468599470546 machine failure
-7741.468599470546 starting repair
-7741.468599470546 finishing repair
-7741.468599470546 machine working
-7769.286151909286 machine failure
-7769.286151909286 starting repair
-7769.286151909286 finishing repair
-7769.286151909286 machine working
-7799.56870421179 machine failure
-7799.56870421179 starting repair
-7799.56870421179 finishing repair
-7799.56870421179 machine working
-7800.0 user check: working 100%
-7828.896066688758 machine failure
-7828.896066688758 starting repair
-7828.896066688758 finishing repair
-7828.896066688758 machine working
-7854.99609673422 machine failure
-7854.99609673422 starting repair
-7854.99609673422 finishing repair
-7854.99609673422 machine working
-7860.0 user check: working 100%
-7890.565680109177 machine failure
-7890.565680109177 starting repair
-7890.565680109177 finishing repair
-7890.565680109177 machine working
-7920.0 user check: working 100%
-7922.436410926493 machine failure
-7922.436410926493 starting repair
-7922.436410926493 finishing repair
-7922.436410926493 machine working
-7953.225468419598 machine failure
-7953.225468419598 starting repair
-7953.225468419598 finishing repair
-7953.225468419598 machine working
-7980.0 user check: working 100%
-7984.264477047043 machine failure
-7984.264477047043 starting repair
-7984.264477047043 finishing repair
-7984.264477047043 machine working
-8000.282923997346 machine failure
-8000.282923997346 starting repair
-8000.282923997346 finishing repair
-8000.282923997346 machine working
-8031.76684723785 machine failure
-8031.76684723785 starting repair
-8031.76684723785 finishing repair
-8031.76684723785 machine working
-8040.0 user check: working 100%
-8064.1759346320205 machine failure
-8064.1759346320205 starting repair
-8064.1759346320205 finishing repair
-8064.1759346320205 machine working
-8092.937343682575 machine failure
-8092.937343682575 starting repair
-8092.937343682575 finishing repair
-8092.937343682575 machine working
-8100.0 user check: working 100%
-8129.041162094148 machine failure
-8129.041162094148 starting repair
-8129.041162094148 finishing repair
-8129.041162094148 machine working
-8160.0 user check: working 100%
-8162.147393805914 machine failure
-8162.147393805914 starting repair
-8162.147393805914 finishing repair
-8162.147393805914 machine working
-8192.828996151236 machine failure
-8192.828996151236 starting repair
-8192.828996151236 finishing repair
-8192.828996151236 machine working
-8220.0 user check: working 100%
-8223.73181258027 machine failure
-8223.73181258027 starting repair
-8223.73181258027 finishing repair
-8223.73181258027 machine working
-8264.782794199698 machine failure
-8264.782794199698 starting repair
-8264.782794199698 finishing repair
-8264.782794199698 machine working
-8280.0 user check: working 100%
-8301.528136476418 machine failure
-8301.528136476418 starting repair
-8301.528136476418 finishing repair
-8301.528136476418 machine working
-8335.890885256887 machine failure
-8335.890885256887 starting repair
-8335.890885256887 finishing repair
-8335.890885256887 machine working
-8340.0 user check: working 100%
-8374.095494387233 machine failure
-8374.095494387233 starting repair
-8374.095494387233 finishing repair
-8374.095494387233 machine working
-8400.0 user check: working 100%
-8400.530990108618 machine failure
-8400.530990108618 starting repair
-8400.530990108618 finishing repair
-8400.530990108618 machine working
-8433.371556767142 machine failure
-8433.371556767142 starting repair
-8433.371556767142 finishing repair
-8433.371556767142 machine working
-8460.0 user check: working 100%
-8466.411854926953 machine failure
-8466.411854926953 starting repair
-8466.411854926953 finishing repair
-8466.411854926953 machine working
-8501.04395018615 machine failure
-8501.04395018615 starting repair
-8501.04395018615 finishing repair
-8501.04395018615 machine working
-8520.0 user check: working 100%
-8528.5160377252 machine failure
-8528.5160377252 starting repair
-8528.5160377252 finishing repair
-8528.5160377252 machine working
-8563.690493191087 machine failure
-8563.690493191087 starting repair
-8563.690493191087 finishing repair
-8563.690493191087 machine working
-8580.0 user check: working 100%
-8595.419485058865 machine failure
-8595.419485058865 starting repair
-8595.419485058865 finishing repair
-8595.419485058865 machine working
-8612.509496167617 machine failure
-8612.509496167617 starting repair
-8612.509496167617 finishing repair
-8612.509496167617 machine working
-8640.0 user check: working 100%
-8641.369771151603 machine failure
-8641.369771151603 starting repair
-8641.369771151603 finishing repair
-8641.369771151603 machine working
-8683.036109816798 machine failure
-8683.036109816798 starting repair
-8683.036109816798 finishing repair
-8683.036109816798 machine working
-8700.0 user check: working 100%
-8718.633129678405 machine failure
-8718.633129678405 starting repair
-8718.633129678405 finishing repair
-8718.633129678405 machine working
-8741.21652602875 machine failure
-8741.21652602875 starting repair
-8741.21652602875 finishing repair
-8741.21652602875 machine working
-8760.0 user check: working 100%
-8770.127664946465 machine failure
-8770.127664946465 starting repair
-8770.127664946465 finishing repair
-8770.127664946465 machine working
-8799.203151808139 machine failure
-8799.203151808139 starting repair
-8799.203151808139 finishing repair
-8799.203151808139 machine working
-8820.0 user check: working 100%
-8833.062329234897 machine failure
-8833.062329234897 starting repair
-8833.062329234897 finishing repair
-8833.062329234897 machine working
-8867.266686952305 machine failure
-8867.266686952305 starting repair
-8867.266686952305 finishing repair
-8867.266686952305 machine working
-8880.0 user check: working 100%
-8899.574535754171 machine failure
-8899.574535754171 starting repair
-8899.574535754171 finishing repair
-8899.574535754171 machine working
-8929.147606163198 machine failure
-8929.147606163198 starting repair
-8929.147606163198 finishing repair
-8929.147606163198 machine working
-8940.0 user check: working 100%
-8962.398649563695 machine failure
-8962.398649563695 starting repair
-8962.398649563695 finishing repair
-8962.398649563695 machine working
-8995.261767655475 machine failure
-8995.261767655475 starting repair
-8995.261767655475 finishing repair
-8995.261767655475 machine working
-9000.0 user check: working 100%
-9025.489371252484 machine failure
-9025.489371252484 starting repair
-9025.489371252484 finishing repair
-9025.489371252484 machine working
-9055.237406802664 machine failure
-9055.237406802664 starting repair
-9055.237406802664 finishing repair
-9055.237406802664 machine working
-9060.0 user check: working 100%
-9085.123218591823 machine failure
-9085.123218591823 starting repair
-9085.123218591823 finishing repair
-9085.123218591823 machine working
-9110.401455656394 machine failure
-9110.401455656394 starting repair
-9110.401455656394 finishing repair
-9110.401455656394 machine working
-9120.0 user check: working 100%
-9136.913714291635 machine failure
-9136.913714291635 starting repair
-9136.913714291635 finishing repair
-9136.913714291635 machine working
-9155.936712868373 machine failure
-9155.936712868373 starting repair
-9155.936712868373 finishing repair
-9155.936712868373 machine working
-9180.0 user check: working 100%
-9190.248927068556 machine failure
-9190.248927068556 starting repair
-9190.248927068556 finishing repair
-9190.248927068556 machine working
-9230.446417753961 machine failure
-9230.446417753961 starting repair
-9230.446417753961 finishing repair
-9230.446417753961 machine working
-9240.0 user check: working 100%
-9250.57762205646 machine failure
-9250.57762205646 starting repair
-9250.57762205646 finishing repair
-9250.57762205646 machine working
-9285.75572863771 machine failure
-9285.75572863771 starting repair
-9285.75572863771 finishing repair
-9285.75572863771 machine working
-9300.0 user check: working 100%
-9311.944134444446 machine failure
-9311.944134444446 starting repair
-9311.944134444446 finishing repair
-9311.944134444446 machine working
-9343.945973174514 machine failure
-9343.945973174514 starting repair
-9343.945973174514 finishing repair
-9343.945973174514 machine working
-9360.0 user check: working 100%
-9385.36115194848 machine failure
-9385.36115194848 starting repair
-9385.36115194848 finishing repair
-9385.36115194848 machine working
-9409.394564159413 machine failure
-9409.394564159413 starting repair
-9409.394564159413 finishing repair
-9409.394564159413 machine working
-9420.0 user check: working 100%
-9438.225419019176 machine failure
-9438.225419019176 starting repair
-9438.225419019176 finishing repair
-9438.225419019176 machine working
-9474.114841091372 machine failure
-9474.114841091372 starting repair
-9474.114841091372 finishing repair
-9474.114841091372 machine working
-9480.0 user check: working 100%
-9509.02330624223 machine failure
-9509.02330624223 starting repair
-9509.02330624223 finishing repair
-9509.02330624223 machine working
-9532.326403776065 machine failure
-9532.326403776065 starting repair
-9532.326403776065 finishing repair
-9532.326403776065 machine working
-9540.0 user check: working 100%
-9560.799588933995 machine failure
-9560.799588933995 starting repair
-9560.799588933995 finishing repair
-9560.799588933995 machine working
-9587.678492718052 machine failure
-9587.678492718052 starting repair
-9587.678492718052 finishing repair
-9587.678492718052 machine working
-9600.0 user check: working 100%
-9617.122554367339 machine failure
-9617.122554367339 starting repair
-9617.122554367339 finishing repair
-9617.122554367339 machine working
-9646.057670377848 machine failure
-9646.057670377848 starting repair
-9646.057670377848 finishing repair
-9646.057670377848 machine working
-9660.0 user check: working 100%
-9676.6330195568 machine failure
-9676.6330195568 starting repair
-9676.6330195568 finishing repair
-9676.6330195568 machine working
-9714.429669771389 machine failure
-9714.429669771389 starting repair
-9714.429669771389 finishing repair
-9714.429669771389 machine working
-9720.0 user check: working 100%
-9740.878093332345 machine failure
-9740.878093332345 starting repair
-9740.878093332345 finishing repair
-9740.878093332345 machine working
-9771.54220557701 machine failure
-9771.54220557701 starting repair
-9771.54220557701 finishing repair
-9771.54220557701 machine working
-9780.0 user check: working 100%
-9805.79531758104 machine failure
-9805.79531758104 starting repair
-9805.79531758104 finishing repair
-9805.79531758104 machine working
-9836.462280302805 machine failure
-9836.462280302805 starting repair
-9836.462280302805 finishing repair
-9836.462280302805 machine working
-9840.0 user check: working 100%
-9882.879607848869 machine failure
-9882.879607848869 starting repair
-9882.879607848869 finishing repair
-9882.879607848869 machine working
-9900.0 user check: working 100%
-9907.760567010484 machine failure
-9907.760567010484 starting repair
-9907.760567010484 finishing repair
-9907.760567010484 machine working
-9936.292982706651 machine failure
-9936.292982706651 starting repair
-9936.292982706651 finishing repair
-9936.292982706651 machine working
-9960.0 user check: working 100%
-9972.34582712264 machine failure
-9972.34582712264 starting repair
-9972.34582712264 finishing repair
-9972.34582712264 machine working
-El tiempo promedio fuera de servicio es: 30.48926473585506
+26.21662819351301 machine failure
+26.21662819351301 starting repair
+34.36304514088625 finishing repair
+34.36304514088625 machine working
+55.29919333124407 machine failure
+55.29919333124407 starting repair
+60.0 user check: working 0%
+65.57133196553983 finishing repair
+65.57133196553983 machine working
+95.98591786685998 machine failure
+95.98591786685998 starting repair
+104.24643956566264 finishing repair
+104.24643956566264 machine working
+120.0 user check: working 50%
+133.44280798566513 machine failure
+133.44280798566513 starting repair
+144.30058759878648 finishing repair
+144.30058759878648 machine working
+180.0 user check: working 66%
+181.91912662529913 machine failure
+181.91912662529913 starting repair
+191.53262864123897 finishing repair
+191.53262864123897 machine working
+214.48715079818336 machine failure
+214.48715079818336 starting repair
+223.0989601760188 finishing repair
+223.0989601760188 machine working
+240.0 user check: working 75%
+263.6622290165551 machine failure
+263.6622290165551 starting repair
+274.5814416528511 finishing repair
+274.5814416528511 machine working
+298.583851526226 machine failure
+298.583851526226 starting repair
+300.0 user check: working 60%
+305.43850281912006 finishing repair
+305.43850281912006 machine working
+334.34587197533034 machine failure
+334.34587197533034 starting repair
+346.38692022322533 finishing repair
+346.38692022322533 machine working
+360.0 user check: working 66%
+369.84422540461753 machine failure
+369.84422540461753 starting repair
+381.62515956590585 finishing repair
+381.62515956590585 machine working
+420.0 user check: working 71%
+420.20055225438637 machine failure
+420.20055225438637 starting repair
+431.1694349320961 finishing repair
+431.1694349320961 machine working
+469.2441764446955 machine failure
+469.2441764446955 starting repair
+477.7706306662957 finishing repair
+477.7706306662957 machine working
+480.0 user check: working 75%
+516.7836517436901 machine failure
+516.7836517436901 starting repair
+528.6208275591139 finishing repair
+528.6208275591139 machine working
+540.0 user check: working 77%
+564.7187057586866 machine failure
+564.7187057586866 starting repair
+572.8092912922882 finishing repair
+572.8092912922882 machine working
+599.9096274656484 machine failure
+599.9096274656484 starting repair
+600.0 user check: working 70%
+607.1236799220732 finishing repair
+607.1236799220732 machine working
+641.3111317712013 machine failure
+641.3111317712013 starting repair
+647.1690637023705 finishing repair
+647.1690637023705 machine working
+660.0 user check: working 72%
+680.0039456366321 machine failure
+680.0039456366321 starting repair
+690.147696868775 finishing repair
+690.147696868775 machine working
+720.0 user check: working 75%
+726.8520588793949 machine failure
+726.8520588793949 starting repair
+739.7023597646187 finishing repair
+739.7023597646187 machine working
+771.7181012757505 machine failure
+771.7181012757505 starting repair
+780.0 user check: working 69%
+784.5407235574326 finishing repair
+784.5407235574326 machine working
+809.7665916529295 machine failure
+809.7665916529295 starting repair
+819.9681859024677 finishing repair
+819.9681859024677 machine working
+839.2414746271456 machine failure
+839.2414746271456 starting repair
+840.0 user check: working 64%
+850.7255335848672 finishing repair
+850.7255335848672 machine working
+883.5211806537501 machine failure
+883.5211806537501 starting repair
+894.7096305086283 finishing repair
+894.7096305086283 machine working
+900.0 user check: working 66%
+926.3051199781746 machine failure
+926.3051199781746 starting repair
+936.9054908765092 finishing repair
+936.9054908765092 machine working
+960.0 user check: working 68%
+973.7359862800017 machine failure
+973.7359862800017 starting repair
+983.6105138906947 finishing repair
+983.6105138906947 machine working
+1014.7292086874953 machine failure
+1014.7292086874953 starting repair
+1020.0 user check: working 64%
+1026.6082444538072 finishing repair
+1026.6082444538072 machine working
+1063.6469381949466 machine failure
+1063.6469381949466 starting repair
+1076.1251205557 finishing repair
+1076.1251205557 machine working
+1080.0 user check: working 66%
+1111.1642878451203 machine failure
+1111.1642878451203 starting repair
+1115.939759487703 finishing repair
+1115.939759487703 machine working
+1140.0 user check: working 68%
+1152.3345409941746 machine failure
+1152.3345409941746 starting repair
+1161.4046244486224 finishing repair
+1161.4046244486224 machine working
+1193.127025273265 machine failure
+1193.127025273265 starting repair
+1200.0 user check: working 65%
+1204.4058959774402 finishing repair
+1204.4058959774402 machine working
+1225.4502360171552 machine failure
+1225.4502360171552 starting repair
+1235.653694092294 finishing repair
+1235.653694092294 machine working
+1260.0 user check: working 66%
+1272.4038242157144 machine failure
+1272.4038242157144 starting repair
+1284.2123545539037 finishing repair
+1284.2123545539037 machine working
+1318.9496249306003 machine failure
+1318.9496249306003 starting repair
+1320.0 user check: working 63%
+1327.4626875725323 finishing repair
+1327.4626875725323 machine working
+1360.7498838209997 machine failure
+1360.7498838209997 starting repair
+1368.2271467115165 finishing repair
+1368.2271467115165 machine working
+1380.0 user check: working 65%
+1394.3871533823271 machine failure
+1394.3871533823271 starting repair
+1404.593498241212 finishing repair
+1404.593498241212 machine working
+1433.3608019709534 machine failure
+1433.3608019709534 starting repair
+1440.0 user check: working 62%
+1446.880520393281 finishing repair
+1446.880520393281 machine working
+1472.7870922678326 machine failure
+1472.7870922678326 starting repair
+1480.579309770387 finishing repair
+1480.579309770387 machine working
+1500.0 user check: working 64%
+1512.275003536874 machine failure
+1512.275003536874 starting repair
+1523.8449581749396 finishing repair
+1523.8449581749396 machine working
+1555.8012647496641 machine failure
+1555.8012647496641 starting repair
+1560.0 user check: working 61%
+1561.5518346008676 finishing repair
+1561.5518346008676 machine working
+1604.8017955020239 machine failure
+1604.8017955020239 starting repair
+1615.5400560357639 finishing repair
+1615.5400560357639 machine working
+1620.0 user check: working 62%
+1639.807482326476 machine failure
+1639.807482326476 starting repair
+1647.4510745263854 finishing repair
+1647.4510745263854 machine working
+1675.8113817810604 machine failure
+1675.8113817810604 starting repair
+1680.0 user check: working 60%
+1685.8170821336387 finishing repair
+1685.8170821336387 machine working
+1715.9393037992588 machine failure
+1715.9393037992588 starting repair
+1725.8905725270972 finishing repair
+1725.8905725270972 machine working
+1740.0 user check: working 62%
+1753.3131679818716 machine failure
+1753.3131679818716 starting repair
+1765.9094493958567 finishing repair
+1765.9094493958567 machine working
+1800.0 user check: working 63%
+1800.36846967224 machine failure
+1800.36846967224 starting repair
+1813.5726332507231 finishing repair
+1813.5726332507231 machine working
+1844.8218579105646 machine failure
+1844.8218579105646 starting repair
+1855.2907266185612 finishing repair
+1855.2907266185612 machine working
+1860.0 user check: working 64%
+1888.1606126172724 machine failure
+1888.1606126172724 starting repair
+1898.0678353148955 finishing repair
+1898.0678353148955 machine working
+1920.0 user check: working 65%
+1930.673132436996 machine failure
+1930.673132436996 starting repair
+1939.1354888825401 finishing repair
+1939.1354888825401 machine working
+1973.4412911881293 machine failure
+1973.4412911881293 starting repair
+1978.4818873054535 finishing repair
+1978.4818873054535 machine working
+1980.0 user check: working 66%
+2010.9609250988256 machine failure
+2010.9609250988256 starting repair
+2019.2276907709354 finishing repair
+2019.2276907709354 machine working
+2040.0 user check: working 67%
+2052.4224308030107 machine failure
+2052.4224308030107 starting repair
+2060.8605468200712 finishing repair
+2060.8605468200712 machine working
+2093.550712712975 machine failure
+2093.550712712975 starting repair
+2100.0 user check: working 65%
+2106.7377102674855 finishing repair
+2106.7377102674855 machine working
+2131.2112164068108 machine failure
+2131.2112164068108 starting repair
+2140.154463432161 finishing repair
+2140.154463432161 machine working
+2160.0 user check: working 66%
+2173.1048399085234 machine failure
+2173.1048399085234 starting repair
+2184.0191960274587 finishing repair
+2184.0191960274587 machine working
+2213.2554049065075 machine failure
+2213.2554049065075 starting repair
+2220.0 user check: working 64%
+2223.692936762876 finishing repair
+2223.692936762876 machine working
+2251.5381291526946 machine failure
+2251.5381291526946 starting repair
+2265.576032525676 finishing repair
+2265.576032525676 machine working
+2280.0 user check: working 65%
+2302.3091285829446 machine failure
+2302.3091285829446 starting repair
+2310.8925826581512 finishing repair
+2310.8925826581512 machine working
+2340.0 user check: working 66%
+2341.0173497709675 machine failure
+2341.0173497709675 starting repair
+2348.118663094775 finishing repair
+2348.118663094775 machine working
+2379.3941602619966 machine failure
+2379.3941602619966 starting repair
+2386.59321974944 finishing repair
+2386.59321974944 machine working
+2400.0 user check: working 67%
+2409.5609440547046 machine failure
+2409.5609440547046 starting repair
+2418.361753675708 finishing repair
+2418.361753675708 machine working
+2456.6560314048047 machine failure
+2456.6560314048047 starting repair
+2460.0 user check: working 65%
+2464.5497785560383 finishing repair
+2464.5497785560383 machine working
+2501.2478726595955 machine failure
+2501.2478726595955 starting repair
+2510.7937903049356 finishing repair
+2510.7937903049356 machine working
+2520.0 user check: working 66%
+2531.408431810409 machine failure
+2531.408431810409 starting repair
+2545.2908165208883 finishing repair
+2545.2908165208883 machine working
+2565.687022348137 machine failure
+2565.687022348137 starting repair
+2575.775583666727 finishing repair
+2575.775583666727 machine working
+2580.0 user check: working 67%
+2598.942590779079 machine failure
+2598.942590779079 starting repair
+2607.975866735215 finishing repair
+2607.975866735215 machine working
+2635.9358477343226 machine failure
+2635.9358477343226 starting repair
+2640.0 user check: working 65%
+2646.541950430321 finishing repair
+2646.541950430321 machine working
+2676.779650538776 machine failure
+2676.779650538776 starting repair
+2687.7737947088062 finishing repair
+2687.7737947088062 machine working
+2700.0 user check: working 66%
+2710.8897058455022 machine failure
+2710.8897058455022 starting repair
+2721.722798845497 finishing repair
+2721.722798845497 machine working
+2747.151255014172 machine failure
+2747.151255014172 starting repair
+2754.7438839549072 finishing repair
+2754.7438839549072 machine working
+2760.0 user check: working 67%
+2792.177595708147 machine failure
+2792.177595708147 starting repair
+2802.660498675188 finishing repair
+2802.660498675188 machine working
+2820.0 user check: working 68%
+2830.524692969432 machine failure
+2830.524692969432 starting repair
+2839.139461411319 finishing repair
+2839.139461411319 machine working
+2872.9839776677923 machine failure
+2872.9839776677923 starting repair
+2880.0 user check: working 66%
+2882.8448358328615 finishing repair
+2882.8448358328615 machine working
+2910.6525851930705 machine failure
+2910.6525851930705 starting repair
+2918.4131534545954 finishing repair
+2918.4131534545954 machine working
+2940.0 user check: working 67%
+2957.525755779308 machine failure
+2957.525755779308 starting repair
+2969.2450540856144 finishing repair
+2969.2450540856144 machine working
+3000.0 user check: working 68%
+3010.596458640418 machine failure
+3010.596458640418 starting repair
+3019.4087508508896 finishing repair
+3019.4087508508896 machine working
+3042.0730923430274 machine failure
+3042.0730923430274 starting repair
+3049.0069150237764 finishing repair
+3049.0069150237764 machine working
+3060.0 user check: working 68%
+3081.351933294441 machine failure
+3081.351933294441 starting repair
+3090.2478209924125 finishing repair
+3090.2478209924125 machine working
+3120.0 user check: working 69%
+3128.8434734384455 machine failure
+3128.8434734384455 starting repair
+3135.415912366636 finishing repair
+3135.415912366636 machine working
+3167.6440661032834 machine failure
+3167.6440661032834 starting repair
+3176.855145948109 finishing repair
+3176.855145948109 machine working
+3180.0 user check: working 69%
+3210.389107006627 machine failure
+3210.389107006627 starting repair
+3218.616699008987 finishing repair
+3218.616699008987 machine working
+3240.0 user check: working 70%
+3242.326428777017 machine failure
+3242.326428777017 starting repair
+3253.980502663603 finishing repair
+3253.980502663603 machine working
+3288.122792818755 machine failure
+3288.122792818755 starting repair
+3297.4145870503044 finishing repair
+3297.4145870503044 machine working
+3300.0 user check: working 70%
+3328.5750037003104 machine failure
+3328.5750037003104 starting repair
+3340.543789414806 finishing repair
+3340.543789414806 machine working
+3360.0 user check: working 71%
+3373.9201368861295 machine failure
+3373.9201368861295 starting repair
+3384.8670029870896 finishing repair
+3384.8670029870896 machine working
+3413.0511023769004 machine failure
+3413.0511023769004 starting repair
+3420.0 user check: working 70%
+3424.2244753717555 finishing repair
+3424.2244753717555 machine working
+3454.0468954555213 machine failure
+3454.0468954555213 starting repair
+3460.574398984067 finishing repair
+3460.574398984067 machine working
+3480.0 user check: working 70%
+3490.787369791483 machine failure
+3490.787369791483 starting repair
+3502.068343887148 finishing repair
+3502.068343887148 machine working
+3527.90957848451 machine failure
+3527.90957848451 starting repair
+3536.882352932449 finishing repair
+3536.882352932449 machine working
+3540.0 user check: working 71%
+3572.0631061181343 machine failure
+3572.0631061181343 starting repair
+3584.4081574120523 finishing repair
+3584.4081574120523 machine working
+3600.0 user check: working 71%
+3603.448520076156 machine failure
+3603.448520076156 starting repair
+3617.650261253353 finishing repair
+3617.650261253353 machine working
+3641.011439609634 machine failure
+3641.011439609634 starting repair
+3651.4802118694515 finishing repair
+3651.4802118694515 machine working
+3660.0 user check: working 72%
+3676.100357594147 machine failure
+3676.100357594147 starting repair
+3688.6240442931025 finishing repair
+3688.6240442931025 machine working
+3715.258151748144 machine failure
+3715.258151748144 starting repair
+3720.0 user check: working 70%
+3724.282301040573 finishing repair
+3724.282301040573 machine working
+3758.196955367838 machine failure
+3758.196955367838 starting repair
+3768.2178582966385 finishing repair
+3768.2178582966385 machine working
+3780.0 user check: working 71%
+3805.630999733201 machine failure
+3805.630999733201 starting repair
+3813.288916964331 finishing repair
+3813.288916964331 machine working
+3840.0 user check: working 71%
+3850.4698029043416 machine failure
+3850.4698029043416 starting repair
+3861.592854229916 finishing repair
+3861.592854229916 machine working
+3884.95026799947 machine failure
+3884.95026799947 starting repair
+3895.5721151153593 finishing repair
+3895.5721151153593 machine working
+3900.0 user check: working 72%
+3923.5976326557998 machine failure
+3923.5976326557998 starting repair
+3931.4044192049255 finishing repair
+3931.4044192049255 machine working
+3960.0 user check: working 72%
+3961.58251349061 machine failure
+3961.58251349061 starting repair
+3974.622014103705 finishing repair
+3974.622014103705 machine working
+4000.2667621974892 machine failure
+4000.2667621974892 starting repair
+4007.5924181969244 finishing repair
+4007.5924181969244 machine working
+4020.0 user check: working 73%
+4036.176564724166 machine failure
+4036.176564724166 starting repair
+4045.9229677361845 finishing repair
+4045.9229677361845 machine working
+4072.971039206108 machine failure
+4072.971039206108 starting repair
+4080.0 user check: working 72%
+4085.964464013408 finishing repair
+4085.964464013408 machine working
+4123.099962626148 machine failure
+4123.099962626148 starting repair
+4137.410869934569 finishing repair
+4137.410869934569 machine working
+4140.0 user check: working 72%
+4176.542692400152 machine failure
+4176.542692400152 starting repair
+4188.990856979176 finishing repair
+4188.990856979176 machine working
+4200.0 user check: working 72%
+4225.629791491501 machine failure
+4225.629791491501 starting repair
+4237.326930976861 finishing repair
+4237.326930976861 machine working
+4260.0 user check: working 73%
+4264.756561136833 machine failure
+4264.756561136833 starting repair
+4277.220725468585 finishing repair
+4277.220725468585 machine working
+4308.974494931612 machine failure
+4308.974494931612 starting repair
+4318.4678124030615 finishing repair
+4318.4678124030615 machine working
+4320.0 user check: working 73%
+4339.60984219198 machine failure
+4339.60984219198 starting repair
+4350.22615380601 finishing repair
+4350.22615380601 machine working
+4380.0 user check: working 73%
+4384.1349411082165 machine failure
+4384.1349411082165 starting repair
+4392.180007926421 finishing repair
+4392.180007926421 machine working
+4421.820508970562 machine failure
+4421.820508970562 starting repair
+4430.601565564809 finishing repair
+4430.601565564809 machine working
+4440.0 user check: working 74%
+4468.813495348704 machine failure
+4468.813495348704 starting repair
+4482.406192835403 finishing repair
+4482.406192835403 machine working
+4500.0 user check: working 74%
+4511.582007800319 machine failure
+4511.582007800319 starting repair
+4521.794079602633 finishing repair
+4521.794079602633 machine working
+4556.696399675073 machine failure
+4556.696399675073 starting repair
+4560.0 user check: working 73%
+4569.710598310275 finishing repair
+4569.710598310275 machine working
+4606.161121452345 machine failure
+4606.161121452345 starting repair
+4618.189234688501 finishing repair
+4618.189234688501 machine working
+4620.0 user check: working 74%
+4639.422936112174 machine failure
+4639.422936112174 starting repair
+4650.910771070884 finishing repair
+4650.910771070884 machine working
+4680.0 user check: working 74%
+4686.201457909235 machine failure
+4686.201457909235 starting repair
+4696.553916667041 finishing repair
+4696.553916667041 machine working
+4725.673729907651 machine failure
+4725.673729907651 starting repair
+4733.7543020548355 finishing repair
+4733.7543020548355 machine working
+4740.0 user check: working 74%
+4757.94082926565 machine failure
+4757.94082926565 starting repair
+4769.659497032459 finishing repair
+4769.659497032459 machine working
+4800.0 user check: working 75%
+4801.7394169882955 machine failure
+4801.7394169882955 starting repair
+4811.893254169411 finishing repair
+4811.893254169411 machine working
+4837.803589884898 machine failure
+4837.803589884898 starting repair
+4852.263921372404 finishing repair
+4852.263921372404 machine working
+4860.0 user check: working 75%
+4889.628575946908 machine failure
+4889.628575946908 starting repair
+4900.382344495364 finishing repair
+4900.382344495364 machine working
+4920.0 user check: working 75%
+4933.9309861337015 machine failure
+4933.9309861337015 starting repair
+4943.185417471645 finishing repair
+4943.185417471645 machine working
+4974.689535253555 machine failure
+4974.689535253555 starting repair
+4980.0 user check: working 74%
+4983.521118644468 finishing repair
+4983.521118644468 machine working
+5018.06364458676 machine failure
+5018.06364458676 starting repair
+5028.98589959066 finishing repair
+5028.98589959066 machine working
+5040.0 user check: working 75%
+5054.689697166439 machine failure
+5054.689697166439 starting repair
+5070.369644232508 finishing repair
+5070.369644232508 machine working
+5096.045435071392 machine failure
+5096.045435071392 starting repair
+5100.0 user check: working 74%
+5108.465807894504 finishing repair
+5108.465807894504 machine working
+5140.025032258187 machine failure
+5140.025032258187 starting repair
+5149.1903101306225 finishing repair
+5149.1903101306225 machine working
+5160.0 user check: working 74%
+5181.473037289909 machine failure
+5181.473037289909 starting repair
+5191.50805018211 finishing repair
+5191.50805018211 machine working
+5214.300526326425 machine failure
+5214.300526326425 starting repair
+5220.0 user check: working 73%
+5225.6183194627 finishing repair
+5225.6183194627 machine working
+5252.855857138525 machine failure
+5252.855857138525 starting repair
+5264.565405926833 finishing repair
+5264.565405926833 machine working
+5280.0 user check: working 73%
+5292.6211887926875 machine failure
+5292.6211887926875 starting repair
+5305.54265693795 finishing repair
+5305.54265693795 machine working
+5331.778399719962 machine failure
+5331.778399719962 starting repair
+5340.0 user check: working 73%
+5342.936884092309 finishing repair
+5342.936884092309 machine working
+5373.624211489236 machine failure
+5373.624211489236 starting repair
+5381.038614262526 finishing repair
+5381.038614262526 machine working
+5400.0 user check: working 73%
+5405.57838418039 machine failure
+5405.57838418039 starting repair
+5417.975631030485 finishing repair
+5417.975631030485 machine working
+5436.731716768023 machine failure
+5436.731716768023 starting repair
+5444.763473693132 finishing repair
+5444.763473693132 machine working
+5460.0 user check: working 73%
+5471.712263530708 machine failure
+5471.712263530708 starting repair
+5481.261115515283 finishing repair
+5481.261115515283 machine working
+5509.405567309153 machine failure
+5509.405567309153 starting repair
+5520.0 user check: working 72%
+5521.895957131049 finishing repair
+5521.895957131049 machine working
+5550.416304632792 machine failure
+5550.416304632792 starting repair
+5555.443869772675 finishing repair
+5555.443869772675 machine working
+5578.945308942838 machine failure
+5578.945308942838 starting repair
+5580.0 user check: working 72%
+5591.938170677821 finishing repair
+5591.938170677821 machine working
+5628.286811116421 machine failure
+5628.286811116421 starting repair
+5640.0 user check: working 71%
+5640.727755514177 finishing repair
+5640.727755514177 machine working
+5670.550666476075 machine failure
+5670.550666476075 starting repair
+5678.5858128421 finishing repair
+5678.5858128421 machine working
+5700.0 user check: working 71%
+5715.687023638389 machine failure
+5715.687023638389 starting repair
+5725.768954626081 finishing repair
+5725.768954626081 machine working
+5760.0 user check: working 71%
+5762.611583540756 machine failure
+5762.611583540756 starting repair
+5774.118973599044 finishing repair
+5774.118973599044 machine working
+5803.478801981214 machine failure
+5803.478801981214 starting repair
+5815.298850352725 finishing repair
+5815.298850352725 machine working
+5820.0 user check: working 72%
+5845.178890314558 machine failure
+5845.178890314558 starting repair
+5855.473263190633 finishing repair
+5855.473263190633 machine working
+5880.0 user check: working 72%
+5889.6166289033135 machine failure
+5889.6166289033135 starting repair
+5902.38582611487 finishing repair
+5902.38582611487 machine working
+5934.621241159137 machine failure
+5934.621241159137 starting repair
+5940.0 user check: working 71%
+5946.801465724124 finishing repair
+5946.801465724124 machine working
+5968.772114026585 machine failure
+5968.772114026585 starting repair
+5977.189046030461 finishing repair
+5977.189046030461 machine working
+6000.0 user check: working 72%
+6002.899541512679 machine failure
+6002.899541512679 starting repair
+6011.860278021915 finishing repair
+6011.860278021915 machine working
+6048.467799538922 machine failure
+6048.467799538922 starting repair
+6057.595478157228 finishing repair
+6057.595478157228 machine working
+6060.0 user check: working 72%
+6071.745356114279 machine failure
+6071.745356114279 starting repair
+6081.3702708940355 finishing repair
+6081.3702708940355 machine working
+6118.303590963283 machine failure
+6118.303590963283 starting repair
+6120.0 user check: working 71%
+6129.01647505793 finishing repair
+6129.01647505793 machine working
+6162.0302317966525 machine failure
+6162.0302317966525 starting repair
+6173.138249286631 finishing repair
+6173.138249286631 machine working
+6180.0 user check: working 71%
+6200.684657195244 machine failure
+6200.684657195244 starting repair
+6209.908772654959 finishing repair
+6209.908772654959 machine working
+6240.0 user check: working 72%
+6246.668314970789 machine failure
+6246.668314970789 starting repair
+6256.473160946332 finishing repair
+6256.473160946332 machine working
+6286.235770792662 machine failure
+6286.235770792662 starting repair
+6297.862573868576 finishing repair
+6297.862573868576 machine working
+6300.0 user check: working 72%
+6328.942383933935 machine failure
+6328.942383933935 starting repair
+6338.524946180912 finishing repair
+6338.524946180912 machine working
+6360.0 user check: working 72%
+6363.121535002416 machine failure
+6363.121535002416 starting repair
+6370.636309782983 finishing repair
+6370.636309782983 machine working
+6398.171635988335 machine failure
+6398.171635988335 starting repair
+6409.081885506303 finishing repair
+6409.081885506303 machine working
+6420.0 user check: working 72%
+6439.683524225482 machine failure
+6439.683524225482 starting repair
+6448.358946096724 finishing repair
+6448.358946096724 machine working
+6480.0 user check: working 73%
+6483.597395302572 machine failure
+6483.597395302572 starting repair
+6497.268181750782 finishing repair
+6497.268181750782 machine working
+6524.354672316371 machine failure
+6524.354672316371 starting repair
+6534.261797078511 finishing repair
+6534.261797078511 machine working
+6540.0 user check: working 73%
+6563.151599768437 machine failure
+6563.151599768437 starting repair
+6576.306908896304 finishing repair
+6576.306908896304 machine working
+6600.0 user check: working 73%
+6615.357552083096 machine failure
+6615.357552083096 starting repair
+6627.8264336955235 finishing repair
+6627.8264336955235 machine working
+6660.0 user check: working 73%
+6667.943691947225 machine failure
+6667.943691947225 starting repair
+6676.263205589443 finishing repair
+6676.263205589443 machine working
+6707.0681148292715 machine failure
+6707.0681148292715 starting repair
+6717.808696525011 finishing repair
+6717.808696525011 machine working
+6720.0 user check: working 74%
+6744.883308520394 machine failure
+6744.883308520394 starting repair
+6757.224320292311 finishing repair
+6757.224320292311 machine working
+6780.0 user check: working 74%
+6787.55866246477 machine failure
+6787.55866246477 starting repair
+6797.7968104691345 finishing repair
+6797.7968104691345 machine working
+6827.768416548559 machine failure
+6827.768416548559 starting repair
+6839.078699977211 finishing repair
+6839.078699977211 machine working
+6840.0 user check: working 74%
+6865.268839709186 machine failure
+6865.268839709186 starting repair
+6875.746985872465 finishing repair
+6875.746985872465 machine working
+6900.0 user check: working 74%
+6906.835239569721 machine failure
+6906.835239569721 starting repair
+6911.459160538928 finishing repair
+6911.459160538928 machine working
+6941.337201396212 machine failure
+6941.337201396212 starting repair
+6951.189507810779 finishing repair
+6951.189507810779 machine working
+6960.0 user check: working 75%
+6981.424044911061 machine failure
+6981.424044911061 starting repair
+6990.539179861216 finishing repair
+6990.539179861216 machine working
+7020.0 user check: working 75%
+7020.935085460514 machine failure
+7020.935085460514 starting repair
+7031.253039114325 finishing repair
+7031.253039114325 machine working
+7064.8981380324285 machine failure
+7064.8981380324285 starting repair
+7077.078375782296 finishing repair
+7077.078375782296 machine working
+7080.0 user check: working 75%
+7110.764270425345 machine failure
+7110.764270425345 starting repair
+7120.095803284003 finishing repair
+7120.095803284003 machine working
+7140.0 user check: working 75%
+7153.012388121985 machine failure
+7153.012388121985 starting repair
+7163.048749941816 finishing repair
+7163.048749941816 machine working
+7195.717843618382 machine failure
+7195.717843618382 starting repair
+7200.0 user check: working 75%
+7208.105755340469 finishing repair
+7208.105755340469 machine working
+7241.397602472051 machine failure
+7241.397602472051 starting repair
+7252.620238654082 finishing repair
+7252.620238654082 machine working
+7260.0 user check: working 75%
+7289.819059547437 machine failure
+7289.819059547437 starting repair
+7301.164624972369 finishing repair
+7301.164624972369 machine working
+7320.0 user check: working 75%
+7330.768400861772 machine failure
+7330.768400861772 starting repair
+7339.989023357453 finishing repair
+7339.989023357453 machine working
+7374.501865919483 machine failure
+7374.501865919483 starting repair
+7380.0 user check: working 74%
+7385.447885953588 finishing repair
+7385.447885953588 machine working
+7419.1545558594635 machine failure
+7419.1545558594635 starting repair
+7426.786909190121 finishing repair
+7426.786909190121 machine working
+7440.0 user check: working 75%
+7457.732602116744 machine failure
+7457.732602116744 starting repair
+7467.581346506541 finishing repair
+7467.581346506541 machine working
+7498.008777129066 machine failure
+7498.008777129066 starting repair
+7500.0 user check: working 74%
+7507.851014841178 finishing repair
+7507.851014841178 machine working
+7538.208358014868 machine failure
+7538.208358014868 starting repair
+7547.023650583951 finishing repair
+7547.023650583951 machine working
+7560.0 user check: working 74%
+7576.264607916691 machine failure
+7576.264607916691 starting repair
+7587.739709246803 finishing repair
+7587.739709246803 machine working
+7619.488615149809 machine failure
+7619.488615149809 starting repair
+7620.0 user check: working 74%
+7627.916626021253 finishing repair
+7627.916626021253 machine working
+7656.678206447581 machine failure
+7656.678206447581 starting repair
+7668.46742024754 finishing repair
+7668.46742024754 machine working
+7680.0 user check: working 74%
+7698.112215786203 machine failure
+7698.112215786203 starting repair
+7704.833182534548 finishing repair
+7704.833182534548 machine working
+7731.258269649582 machine failure
+7731.258269649582 starting repair
+7740.0 user check: working 73%
+7741.462102399864 finishing repair
+7741.462102399864 machine working
+7773.305725858749 machine failure
+7773.305725858749 starting repair
+7783.07299218997 finishing repair
+7783.07299218997 machine working
+7800.0 user check: working 73%
+7813.473270523767 machine failure
+7813.473270523767 starting repair
+7825.073580961739 finishing repair
+7825.073580961739 machine working
+7855.990772087281 machine failure
+7855.990772087281 starting repair
+7860.0 user check: working 73%
+7862.44188159178 finishing repair
+7862.44188159178 machine working
+7899.216367291782 machine failure
+7899.216367291782 starting repair
+7913.9319421987275 finishing repair
+7913.9319421987275 machine working
+7920.0 user check: working 73%
+7935.714766712905 machine failure
+7935.714766712905 starting repair
+7945.722482794311 finishing repair
+7945.722482794311 machine working
+7975.4357648499845 machine failure
+7975.4357648499845 starting repair
+7980.0 user check: working 72%
+7983.9004376104895 finishing repair
+7983.9004376104895 machine working
+8014.974790453904 machine failure
+8014.974790453904 starting repair
+8023.947127792364 finishing repair
+8023.947127792364 machine working
+8040.0 user check: working 73%
+8045.69492977861 machine failure
+8045.69492977861 starting repair
+8055.310153887588 finishing repair
+8055.310153887588 machine working
+8085.8364154504525 machine failure
+8085.8364154504525 starting repair
+8094.813148656622 finishing repair
+8094.813148656622 machine working
+8100.0 user check: working 73%
+8119.619204955564 machine failure
+8119.619204955564 starting repair
+8130.8312906228675 finishing repair
+8130.8312906228675 machine working
+8160.0 user check: working 73%
+8161.1593060325395 machine failure
+8161.1593060325395 starting repair
+8170.616305363296 finishing repair
+8170.616305363296 machine working
+8200.184965825942 machine failure
+8200.184965825942 starting repair
+8209.486228581336 finishing repair
+8209.486228581336 machine working
+8220.0 user check: working 73%
+8228.301839025255 machine failure
+8228.301839025255 starting repair
+8236.219432282549 finishing repair
+8236.219432282549 machine working
+8265.800710075078 machine failure
+8265.800710075078 starting repair
+8280.0 user check: working 73%
+8281.069011883861 finishing repair
+8281.069011883861 machine working
+8311.420413609463 machine failure
+8311.420413609463 starting repair
+8319.798879028749 finishing repair
+8319.798879028749 machine working
+8340.0 user check: working 73%
+8344.976820755286 machine failure
+8344.976820755286 starting repair
+8356.915190485584 finishing repair
+8356.915190485584 machine working
+8385.135033070252 machine failure
+8385.135033070252 starting repair
+8397.330048246864 finishing repair
+8397.330048246864 machine working
+8400.0 user check: working 73%
+8426.806056681675 machine failure
+8426.806056681675 starting repair
+8440.105360915604 finishing repair
+8440.105360915604 machine working
+8460.0 user check: working 73%
+8464.072415975375 machine failure
+8464.072415975375 starting repair
+8475.124503988969 finishing repair
+8475.124503988969 machine working
+8506.852717833399 machine failure
+8506.852717833399 starting repair
+8518.439164681988 finishing repair
+8518.439164681988 machine working
+8520.0 user check: working 73%
+8544.780776900134 machine failure
+8544.780776900134 starting repair
+8557.958643188473 finishing repair
+8557.958643188473 machine working
+8580.0 user check: working 74%
+8585.46662529042 machine failure
+8585.46662529042 starting repair
+8595.103418982288 finishing repair
+8595.103418982288 machine working
+8627.78475096613 machine failure
+8627.78475096613 starting repair
+8639.808141586109 finishing repair
+8639.808141586109 machine working
+8640.0 user check: working 74%
+8674.077895527478 machine failure
+8674.077895527478 starting repair
+8682.700253424566 finishing repair
+8682.700253424566 machine working
+8697.518525224392 machine failure
+8697.518525224392 starting repair
+8700.0 user check: working 73%
+8707.223462796803 finishing repair
+8707.223462796803 machine working
+8738.77145730645 machine failure
+8738.77145730645 starting repair
+8750.633011402015 finishing repair
+8750.633011402015 machine working
+8760.0 user check: working 73%
+8781.92906341253 machine failure
+8781.92906341253 starting repair
+8789.351523627538 finishing repair
+8789.351523627538 machine working
+8820.0 user check: working 74%
+8823.798476321732 machine failure
+8823.798476321732 starting repair
+8830.765142822536 finishing repair
+8830.765142822536 machine working
+8853.343871147945 machine failure
+8853.343871147945 starting repair
+8863.892610068875 finishing repair
+8863.892610068875 machine working
+8880.0 user check: working 74%
+8888.891780035445 machine failure
+8888.891780035445 starting repair
+8898.182175412381 finishing repair
+8898.182175412381 machine working
+8919.135269497303 machine failure
+8919.135269497303 starting repair
+8931.698151689265 finishing repair
+8931.698151689265 machine working
+8940.0 user check: working 74%
+8967.910740740886 machine failure
+8967.910740740886 starting repair
+8977.17991249946 finishing repair
+8977.17991249946 machine working
+9000.0 user check: working 74%
+9010.780335062165 machine failure
+9010.780335062165 starting repair
+9018.739398300677 finishing repair
+9018.739398300677 machine working
+9049.19440864503 machine failure
+9049.19440864503 starting repair
+9057.740617238698 finishing repair
+9057.740617238698 machine working
+9060.0 user check: working 74%
+9082.283865893349 machine failure
+9082.283865893349 starting repair
+9093.555071384813 finishing repair
+9093.555071384813 machine working
+9120.0 user check: working 75%
+9128.261470228093 machine failure
+9128.261470228093 starting repair
+9140.301544921454 finishing repair
+9140.301544921454 machine working
+9164.250712930349 machine failure
+9164.250712930349 starting repair
+9173.84372971194 finishing repair
+9173.84372971194 machine working
+9180.0 user check: working 75%
+9203.437751649362 machine failure
+9203.437751649362 starting repair
+9212.99486839788 finishing repair
+9212.99486839788 machine working
+9232.40410171438 machine failure
+9232.40410171438 starting repair
+9240.0 user check: working 74%
+9245.562807558614 finishing repair
+9245.562807558614 machine working
+9282.036832853852 machine failure
+9282.036832853852 starting repair
+9290.46250640804 finishing repair
+9290.46250640804 machine working
+9300.0 user check: working 74%
+9325.52856120816 machine failure
+9325.52856120816 starting repair
+9334.937466787818 finishing repair
+9334.937466787818 machine working
+9360.0 user check: working 75%
+9367.176671475903 machine failure
+9367.176671475903 starting repair
+9379.12993933274 finishing repair
+9379.12993933274 machine working
+9420.0 user check: working 75%
+9420.394783038004 machine failure
+9420.394783038004 starting repair
+9428.846492023466 finishing repair
+9428.846492023466 machine working
+9465.167484291294 machine failure
+9465.167484291294 starting repair
+9474.341290984925 finishing repair
+9474.341290984925 machine working
+9480.0 user check: working 75%
+9497.915568127597 machine failure
+9497.915568127597 starting repair
+9509.162661777427 finishing repair
+9509.162661777427 machine working
+9540.0 user check: working 75%
+9544.191019917473 machine failure
+9544.191019917473 starting repair
+9557.838236771953 finishing repair
+9557.838236771953 machine working
+9585.668854770367 machine failure
+9585.668854770367 starting repair
+9591.22145694236 finishing repair
+9591.22145694236 machine working
+9600.0 user check: working 75%
+9624.023288880957 machine failure
+9624.023288880957 starting repair
+9634.732615655155 finishing repair
+9634.732615655155 machine working
+9660.0 user check: working 75%
+9669.220063576826 machine failure
+9669.220063576826 starting repair
+9679.406399576468 finishing repair
+9679.406399576468 machine working
+9711.042444471104 machine failure
+9711.042444471104 starting repair
+9720.0 user check: working 75%
+9722.314763457201 finishing repair
+9722.314763457201 machine working
+9743.51922919587 machine failure
+9743.51922919587 starting repair
+9752.476207863889 finishing repair
+9752.476207863889 machine working
+9780.0 user check: working 75%
+9792.019358646088 machine failure
+9792.019358646088 starting repair
+9803.849061414134 finishing repair
+9803.849061414134 machine working
+9833.544636675584 machine failure
+9833.544636675584 starting repair
+9840.0 user check: working 75%
+9841.436535902776 finishing repair
+9841.436535902776 machine working
+9871.397905967407 machine failure
+9871.397905967407 starting repair
+9882.129996077701 finishing repair
+9882.129996077701 machine working
+9900.0 user check: working 75%
+9907.137981577918 machine failure
+9907.137981577918 starting repair
+9917.535359684563 finishing repair
+9917.535359684563 machine working
+9951.962420571172 machine failure
+9951.962420571172 starting repair
+9960.0 user check: working 74%
+9964.263258360996 finishing repair
+El tiempo promedio fuera de servicio es: 30.299902290678745
