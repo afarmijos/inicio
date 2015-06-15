@@ -21,8 +21,6 @@ compile:
 	javac -classpath $(classpath) -sourcepath $(SRCDIR)/*.java -d $(JAVA_BUILDDIR)
 	jar cfm $(PROJECT_JAR_NAME) $(MANIFEST) -C $(JAVA_BUILDDIR) . 
 	echo "compilacion exitosa. Jar " $(PROJECT_JAR_NAME) " generado." 	
-clean:	
-	$(RM) "$(BUILDDIR)" "$(PROJECT_JAR_NAME)" 
 
 ejecutarAleatorio:
 	java -cp $(PROJECT_JAR_NAME) DiscreteEventSimulation random => $(ARCHIVO_RESULTADO)
