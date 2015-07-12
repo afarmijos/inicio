@@ -36,33 +36,17 @@ grad = zeros(size(theta));
 %           grad = grad + YOUR_CODE_HERE (using the temp variable)
 %
 
-
 n = size(X,2);
 
-h = sigmoid(X*theta);
+hipotesis=sigmoid(X*theta);
 
-% Cost function (apenas seguindo a formula)
-J = ( (-y)' *log(h)-(1-y)' * log(1-h))/m;
+J=-( y'*( log(hipotesis)) + ((1.-y)')*( log(1.- hipotesis ) )  )/m;
 
-% excluindo o theta0 - devemos ignorar o Theta0 na regularizacao
-theta1 = [0 ; theta(2:size(theta), :)];
+thetaAux = [0; theta(2:end,:)];
 
-% somatorio do lambda - REGULARIZATION
-soma = sum(theta1'*theta1);
+J = J + ((lambda / (2*m)) * (thetaAux' * thetaAux));
 
-% penalty pra cada feature
-p = (lambda*soma) / (2*m);
-
-% J + penalty
-J = J + p;
-
-% grad.. a formula eh (1/m SOMATORIO ( (h0(x) - y) * X + lambda ).. para j >= 1
-% para j == 0 nao devemos considerar a soma com lambda 
-% (por isso zeramos a primera posicao do theta1)
-grad =  ( X' * (h - y) + lambda*theta1 ) / m;
-
-
-
+grad=(X'*(hipotesis-y)+lambda* thetaAux)/m;
 
 % =============================================================
 
