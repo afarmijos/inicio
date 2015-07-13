@@ -3,9 +3,8 @@ function [J grad] = nnCostFunction(nn_params, ...
                                    hidden_layer_size, ...
                                    num_labels, ...
                                    X, y, lambda)
-
-%   NNCOSTFUNCTION Implements the neural network cost function for a two layer
-%   neural network which performs classification
+%NNCOSTFUNCTION Implements the neural network cost function for a two layer
+%neural network which performs classification
 %   [J grad] = NNCOSTFUNCTON(nn_params, hidden_layer_size, num_labels, ...
 %   X, y, lambda) computes the cost and gradient of the neural network. The
 %   parameters for the neural network are "unrolled" into the vector
@@ -14,15 +13,15 @@ function [J grad] = nnCostFunction(nn_params, ...
 %   The returned parameter grad should be a "unrolled" vector of the
 %   partial derivatives of the neural network.
 %
-
+ 
 % Reshape nn_params back into the parameters Theta1 and Theta2, the weight matrices
 % for our 2 layer neural network
 Theta1 = reshape(nn_params(1:hidden_layer_size * (input_layer_size + 1)), ...
                  hidden_layer_size, (input_layer_size + 1));
-
+ 
 Theta2 = reshape(nn_params((1 + (hidden_layer_size * (input_layer_size + 1))):end), ...
                  num_labels, (hidden_layer_size + 1));
-
+ 
 % Setup some useful variables
 m = size(X, 1);
          
@@ -30,7 +29,7 @@ m = size(X, 1);
 J = 0;
 Theta1_grad = zeros(size(Theta1));
 Theta2_grad = zeros(size(Theta2));
-
+ 
 % ====================== YOUR CODE HERE ======================
 % Instructions: You should complete the code by working through the
 %               following parts.
@@ -62,59 +61,48 @@ Theta2_grad = zeros(size(Theta2));
 %               the regularization separately and then add them to Theta1_grad
 %               and Theta2_grad from Part 2.
 %
-
-%Forward pass:
+ 
+ 
+X = [ones(m, 1) X];
 y = eye(num_labels)(y,:);
+ 
+ % ====================== PARTE 1: Feedforward Propagation ======================
+a1 = X;
+ 
+z2 = a1 * Theta1';
+a2 = sigmoid(z2);
+ 
+n = size(a2, 1);
+a2 = [ones(n,1) a2];
+ 
+z3 = a2 * Theta2';
+a3 = sigmoid(z3);
 
-a_1 = [ones(m,1) X];
+% ====================== PARTE 3: Regularizacion ====================== 
+% Para mejorar la exactitud, se saco como factor comun el 1/m tanto para la funcion
+% de costo como para la regularizacion, es decir se sumo la funcion J
+% con la regularizacion y luego se dividio para m. La exactitud mejoro.
 
-z_2 = (Theta1*a_1')';
-
-a_2 = sigmoid(Theta1*a_1')';
-a_2 = [ones(size(a_2,1),1) a_2];
-a_3 = sigmoid(Theta2*a_2')';
-
-J_reg = lambda/(2*m)*(sum(sum(Theta1(:,2:end).^2)) + sum(sum(Theta2(:,2:end).^2)));
-J = (1/m)*sum(sum(-y.*log(a_3) - (1-y).*log(1-a_3))) + J_reg; 
-
-%Backprop:
-
-d_3 = a_3 - y;
-d_2 = ((d_3*Theta2(:,2:end)).*sigmoidGradient(z_2));
-
-Theta1_grad = 1/m * d_2' * a_1;
-Theta2_grad = 1/m * d_3' * a_2;
-
-%add regularization:
-
-Theta1_grad(:,2:end) = Theta1_grad(:,2:end) + lambda/m*Theta1(:,2:end);
-Theta2_grad(:,2:end) = Theta2_grad(:,2:end) + lambda/m*Theta2(:,2:end);
-
-% Unroll gradients
+regularization = (lambda/(2)) * (sum(sum((Theta1(:,2:end)).^2)) + sum(sum((Theta2(:,2:end)).^2)));
+ 
+J = ( (sum(sum((-y .* log(a3))-((1-y) .* log(1-a3))))) + regularization )/m;
+ 
+% ====================== PARTE 2: Backward Propagation ====================== 
+delta_3 = a3 - y;
+delta_2 = (delta_3 * Theta2(:,2:end)) .* sigmoidGradient(z2);
+ 
+ 
+delta_cap2 = delta_3' * a2; 
+delta_cap1 = delta_2' * a1;
+ 
+Theta1_grad = ((1/m) * delta_cap1) + ((lambda/m) * (Theta1));
+Theta2_grad = ((1/m) * delta_cap2) + ((lambda/m) * (Theta2));
+ 
+Theta1_grad(:,1) -= ((lambda/m) * (Theta1(:,1)));
+Theta2_grad(:,1) -= ((lambda/m) * (Theta2(:,1)));
+ 
+% Unroll de los gradientes
 grad = [Theta1_grad(:) ; Theta2_grad(:)];
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-% -------------------------------------------------------------
-
-% =========================================================================
-
-% Unroll gradients
-grad = [Theta1_grad(:) ; Theta2_grad(:)];
-
-
+ 
+ 
 end
